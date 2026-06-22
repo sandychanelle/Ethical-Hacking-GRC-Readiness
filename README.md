@@ -19,7 +19,7 @@ Without a clearly defined, legally binding VDP, unauthorized security testing co
 ### U.S. Department of Defense VDP Policy Audit Analysis  
 **Repository:** `Ethical-Hacking-GRC-Readiness`
 
-### Section 1: Executive Summary  
+### Executive Summary  
 
 Understanding a Vulnerability Disclosure Policy (VDP) represents the critical boundary that separates an ethical cybersecurity professional from someone targeted by federal law enforcement. In the field of security research, having good intentions does not protect an individual from legal trouble. 
 
@@ -27,7 +27,7 @@ If a hacker tests a system without explicit, written rules and a clearly defined
 
 
 
-### Section 2: Scope & Operational Boundaries  
+### Scope & Operational Boundaries  
 
 To keep these legal protections active, researchers must treat the policy restrictions as a definitive line that cannot be crossed. Violating these operational boundaries instantly cancels the safe harbor agreement and turns an authorized security test into an illegal action. 
 
