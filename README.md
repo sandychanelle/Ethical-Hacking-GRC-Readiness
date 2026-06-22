@@ -1,1 +1,9 @@
-# Ethical-Hacking-GRC--Readiness
+Executive Summary: The Professional Boundary of Vulnerability Disclosure Policies 
+
+ 
+
+In the field of offensive security and cybersecurity research, personal intent does not grant legal immunity. Understanding and strictly adhering to a Vulnerability Disclosure Policy (VDP) serves as the definitive boundary that separates a respected, ethical professional from an individual targeted by federal law enforcement. Without a formal, legally binding VDP in place, executing automated vulnerability scans, probing network ports, or attempting to exploit a discovered flaw constitutes unauthorized system access. Under federal statutes such as the Computer Fraud and Abuse Act (CFAA), unauthorized access to protected computing networks is treated as a severe criminal offense. This means that a well-meaning researcher who uncovers a critical security gap without proper authorization can easily find themselves facing a federal investigation, heavy financial penalties, or criminal prosecution. 
+
+A VDP eliminates these legal dangers completely by establishing a clear, authorized agreement between an organization and the security research community. The policy explicitly defines which digital assets are open for testing, what tools or scanning methodologies are permitted, and the exact process required to document and report the findings safely. By operating strictly within these predefined boundaries, a researcher transforms what would legally be classified as a malicious network of intrusion into an authorized, protective security partnership. Ultimately, a true cybersecurity professional respects these operational limits to safeguard their career and maintain legal compliance, whereas individuals who ignore VDP rules risk being designated as malicious threat actors by the FBI and other law enforcement agencies. 
+
+ 
