@@ -29,14 +29,4 @@ To keep these legal protections active, researchers must treat the policy restri
 
 ---
 
-### Submission Requirements
 
-Outside of these strict boundaries, the DoD requires a specific set of details before they will verify and accept a vulnerability report. To be counted as a valid submission of disclosure, the report must include:
-
-1.  **Technical Breakdown:** A detailed description of the exact category of the security flaw, the specific software product, version number, and configuration environment where the bug lives.
-2.  **Reproduction Steps:** Step-by-step instructions to recreate the issue.
-3.  **Proof of Concept (PoC):** A functioning proof of concept demonstrating the vulnerability.
-4.  **Impact Analysis:** An analysis of the potential risk impact.
-5.  **Mitigation:** Realistic suggestions for how the DoD can patch or mitigate the threat.
-
-*_Note: Flooding the team with a high volume of low-quality or incomplete reports goes directly against program guidelines._*
